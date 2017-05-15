@@ -1,0 +1,27 @@
+Process balances:
+Process 0 has balance: 226
+
+
+
+
+Channels:
+Channel 0 to channel 1: []
+Channel 0 to channel 2: []
+Channel 0 to channel 3: []
+Channel 0 to channel 4: []
+Channel 1 to channel 0: []
+Channel 1 to channel 2: []
+Channel 1 to channel 3: []
+Channel 1 to channel 4: []
+Channel 2 to channel 0: []
+Channel 2 to channel 1: []
+Channel 2 to channel 3: []
+Channel 2 to channel 4: []
+Channel 3 to channel 0: []
+Channel 3 to channel 1: []
+Channel 3 to channel 2: []
+Channel 3 to channel 4: []
+Channel 4 to channel 0: []
+Channel 4 to channel 1: []
+Channel 4 to channel 2: []
+Channel 4 to channel 3: []
